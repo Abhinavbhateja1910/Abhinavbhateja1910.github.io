@@ -1,6 +1,6 @@
 # Abhinavbhateja1910.github.io
 This is my first GitHub website 
-## Activity report of student induction program ##
-|Date||Resource person||Description|
-| ----------- | ----------- | --------|
-| 15/7/24 | Dr Pyaare lal Garg | |Dr Pyaare lal garg told us important things|
+## Activity report of Student Induction program ##
+| Date | Resource Person | Description |
+| ----------- | ----------- | ----------|
+| 15.07.24 | Dr. Pyare Lal Garg | Dr. garg told us important things |
